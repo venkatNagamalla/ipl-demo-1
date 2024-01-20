@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.team-bg-container {
+  background: linear-gradient(to bottom, #a4261d, #1e293b);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-banner {
+  width: 100%;
+}
+
+.inner-container {
+  width: 90%;
+  border: 1px solid #000;
+}
+
+.side-heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}

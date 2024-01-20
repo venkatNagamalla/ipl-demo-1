@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.side-heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.latest-match-container {
+  background-color: #1e293b;
+}
